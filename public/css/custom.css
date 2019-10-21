@@ -1,0 +1,18 @@
+@media (max-width: 767px) {
+  .page-boxed .page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle .username.username-hide-on-mobile {
+    display: inline-flex !important;
+  }
+  .page-header.navbar .menu-toggler.responsive-toggler {
+    display: inline-flex;
+    float: right;
+    margin: 30.5px 14px 0 6px;
+  }
+}
+
+.page-header.navbar .top-menu {
+  float: right !important;
+}
+
+.page-header.navbar .top-menu .dropdown-menu {
+  margin: 0px 50px 0px 0px !important;
+}

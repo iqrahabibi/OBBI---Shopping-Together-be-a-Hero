@@ -1,0 +1,1 @@
+<a href="{{ $history_url }}" class="btn btn-xs btn-primary">History</a>

@@ -1,0 +1,1 @@
+<a href="{{ $url }}" target="_blank">{{ Html::image($url, 'alt', array( 'width' => 400, 'height' => 300 )) }}</a>

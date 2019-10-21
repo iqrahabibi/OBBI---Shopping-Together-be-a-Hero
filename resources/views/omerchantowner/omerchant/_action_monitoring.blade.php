@@ -1,0 +1,1 @@
+<a href="{{ $detail_url }}" class="btn btn-xs btn-info" target="_blank">Detail</a>

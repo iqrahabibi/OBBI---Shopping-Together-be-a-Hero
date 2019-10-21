@@ -1,0 +1,1 @@
+<a href="{{ $pomasuk_url }}" class="btn btn-xs btn-primary" target="_blank">Proses</a>

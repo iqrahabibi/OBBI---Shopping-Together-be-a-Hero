@@ -1,0 +1,1 @@
+<a href="{{ $cetak_url }}" class="btn btn-xs btn-primary">Cetak</a> 
